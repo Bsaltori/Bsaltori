@@ -1,6 +1,6 @@
 # Olá!! Eu sou a Beatriz.
 
-📊 Atualmente trabalho com prevenção à fraude
+📊 Atualmente trabalho com prevenção à fraude <br>
 🐍 Estudando python
 
 <div align="center">
