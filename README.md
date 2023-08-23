@@ -1,7 +1,7 @@
 # Olá!! Eu sou a Beatriz.
 
 📊 Atualmente trabalho com prevenção à fraude <br>
-🐍 Estudando python
+📑 Estudando SQL
 
 <div align="center">
   <a href="https://github.com/Bsaltori">
